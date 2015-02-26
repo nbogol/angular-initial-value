@@ -1,3 +1,5 @@
+http://blog.glaucocustodio.com/2014/10/20/init-ng-model-from-form-fields-attributes/
+
 # Angular Initial Value
 
 A tiny AngularJS directive to set ng-model (and consequently field value) based on form fields attributes.
